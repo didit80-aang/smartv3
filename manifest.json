@@ -2,7 +2,7 @@
   "name": "Smart Home Control",
   "short_name": "SmartHome",
   "description": "Kontrol Rumah Pintar ESP8266",
-  "start_url": "/smart/",
+  "start_url": "/smartv3/",
   "display": "standalone",
   "background_color": "#0f172a",
   "theme_color": "#1e3a8a",
